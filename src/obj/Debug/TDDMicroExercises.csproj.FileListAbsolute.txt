@@ -1,0 +1,9 @@
+D:\projects\TirePressure\RefactorMircoExcercise\src\bin\Debug\TDDMicroExercises.dll
+D:\projects\TirePressure\RefactorMircoExcercise\src\bin\Debug\TDDMicroExercises.pdb
+D:\projects\TirePressure\RefactorMircoExcercise\src\bin\Debug\nunit.framework.dll
+D:\projects\TirePressure\RefactorMircoExcercise\src\bin\Debug\nunit.framework.xml
+D:\projects\TirePressure\RefactorMircoExcercise\src\obj\Debug\TDDMicroExercises.csproj.CoreCompileInputs.cache
+D:\projects\TirePressure\RefactorMircoExcercise\src\obj\Debug\TDDMicroExercises.csproj.CopyComplete
+D:\projects\TirePressure\RefactorMircoExcercise\src\obj\Debug\TDDMicroExercises.dll
+D:\projects\TirePressure\RefactorMircoExcercise\src\obj\Debug\TDDMicroExercises.pdb
+D:\projects\TirePressure\RefactorMircoExcercise\src\obj\Debug\TDDMicroExercises.csproj.AssemblyReference.cache
